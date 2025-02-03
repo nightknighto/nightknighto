@@ -79,3 +79,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightknighto)](https://streak-stats.demolab.com?user=nightknighto)
 
+<h2 align="center"> :zap: Recent Activity </h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
