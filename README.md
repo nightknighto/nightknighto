@@ -26,8 +26,8 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<a href="https://dev.to/deadreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deadreyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-mohamed-atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mohamed-atwa" height="30" width="40" /></a>
+<a href="https://dev.to/deadreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deadreyo" height="30" width="40" /></a>
 
 <h2 align="center">Languages and Tools:</h2>
 
