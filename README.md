@@ -1,8 +1,8 @@
 <h1 align="center">Welcome 👋, I'm Ahmed Atwa</h1>
 <h3 align="center">Fullstack Web Developer (MERN), DevOps Engineer, Open-Source enthusiast, and passionate about creating applications.</h3>
 
+<!-- profile view counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightknighto&label=Profile%20views&color=0e75b6&style=flat" alt="nightknighto" /> </p>
-
 
 - 🔭 I’m currently working on **AstroCloud (Egypt's first managed hosting service)**
 
@@ -22,16 +22,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+
 <a href="https://dev.to/deadreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deadreyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-mohamed-atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mohamed-atwa" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 #### Frontend
-![]()
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,7 +44,6 @@
 ![capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 
 #### Backend
-![]()
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,7 +58,6 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 #### DevOps & Deployment
-![]()
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,10 +69,13 @@
 ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightknighto&show_icons=true&locale=en&layout=compact" alt="nightknighto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightknighto&show_icons=true&locale=en" alt="nightknighto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightknighto&theme=default" alt="nightknighto" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightknighto" alt="nightknighto" /></a> </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nightknighto)](https://streak-stats.demolab.com?user=nightknighto)
+
