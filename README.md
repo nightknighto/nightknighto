@@ -77,8 +77,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightknighto&show_icons=true&locale=en" alt="nightknighto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightknighto&theme=default" alt="nightknighto" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightknighto)](https://streak-stats.demolab.com?user=nightknighto)
 
 <h2 align="center"> :zap: Recent Activity </h2>
