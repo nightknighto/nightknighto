@@ -82,6 +82,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#153](https://github.com/nightknighto/Warcraft-3-Reforged-UI-Designer/issues/153) in [nightknighto/Warcraft-3-Reforged-UI-Designer](https://github.com/nightknighto/Warcraft-3-Reforged-UI-Designer)
 <!--END_SECTION:activity-->
 
 
