@@ -73,11 +73,19 @@
 
 <h2 align="center"> 📊 GitHub Stats 📊 </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightknighto&show_icons=true&locale=en&layout=compact&hide=Objective-J,lua" alt="nightknighto" /></p>
+<p style="width: 100%; background-color: #f0f0f0; padding: 10px; box-sizing: border-box;">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightknighto&show_icons=true&locale=en&layout=compact&theme=algolia&hide=Objective-J,lua" alt="nightknighto" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightknighto&show_icons=true&locale=en" alt="nightknighto" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nightknighto&show_icons=true&include_all_commits=true&theme=algolia" alt="Github stats 1" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nightknighto&show_icons=true&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs" alt="Github stats 2" style="width: 48%;" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nightknighto)](https://streak-stats.demolab.com?user=nightknighto)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nightknighto&theme=algolia)](https://streak-stats.demolab.com?user=nightknighto&theme=algolia)
+
+![github streak 2](https://github-readme-streak-stats.herokuapp.com/?user=nightknighto&theme=algolia)
 
 <h2 align="center"> :zap: Recent Activity </h2>
 
