@@ -90,7 +90,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/AstroCloud-GP/static-hosting-round-3-framework_builder_worker/pull/3) in [AstroCloud-GP/static-hosting-round-3-framework_builder_worker](https://github.com/AstroCloud-GP/static-hosting-round-3-framework_builder_worker)
+1. 🗣 Commented on [#1657](https://github.com/asyncapi/cli/issues/1657#issuecomment-2706442351) in [asyncapi/cli](https://github.com/asyncapi/cli)
 <!--END_SECTION:activity-->
 
 
