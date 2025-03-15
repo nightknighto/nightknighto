@@ -90,7 +90,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#320](https://github.com/cncf/communitygroups/issues/320) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. 💪 Opened PR [#1793](https://github.com/asyncapi/community/pull/1793) in [asyncapi/community](https://github.com/asyncapi/community)
 <!--END_SECTION:activity-->
 
 
