@@ -90,7 +90,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1425](https://github.com/asyncapi/generator/issues/1425) in [asyncapi/generator](https://github.com/asyncapi/generator)
+1. ❗ Opened issue [#321](https://github.com/asyncapi/nodejs-template/issues/321) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
 <!--END_SECTION:activity-->
 
 
