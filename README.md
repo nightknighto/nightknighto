@@ -90,7 +90,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3943](https://github.com/asyncapi/website/pull/3943#issuecomment-2745468599) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❗ Opened issue [#1744](https://github.com/asyncapi/cli/issues/1744) in [asyncapi/cli](https://github.com/asyncapi/cli)
 <!--END_SECTION:activity-->
 
 
