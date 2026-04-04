@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/deadreyo/-2b3c)
 - [Why Docker is a Game-Changer for Development, Not Just Production](https://dev.to/deadreyo/why-docker-is-a-game-changer-for-development-not-just-production-677)
 - [Personalized Social Images: Enhancing User Profiles with Opengraph](https://dev.to/opensauced/personalized-social-images-enhancing-user-profiles-with-opengraph-1iio)
 <!-- BLOG-POST-LIST:END -->
