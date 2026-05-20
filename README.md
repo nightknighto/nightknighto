@@ -91,7 +91,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/Huachao/vscode-restclient/issues/283#issuecomment-3796465094) in [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient)
+1. ❗ Opened issue [#11](https://github.com/Ryosuke-Asano/zai-provider-extension/issues/11) in [Ryosuke-Asano/zai-provider-extension](https://github.com/Ryosuke-Asano/zai-provider-extension)
 <!--END_SECTION:activity-->
 
 
