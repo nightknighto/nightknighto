@@ -91,7 +91,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/Ryosuke-Asano/zai-provider-extension/issues/11) in [Ryosuke-Asano/zai-provider-extension](https://github.com/Ryosuke-Asano/zai-provider-extension)
+1. 🗣 Commented on [#217](https://github.com/obra/superpowers/issues/217#issuecomment-4677193849) in [obra/superpowers](https://github.com/obra/superpowers)
 <!--END_SECTION:activity-->
 
 
