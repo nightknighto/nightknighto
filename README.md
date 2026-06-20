@@ -28,6 +28,7 @@
 
 <a href="https://linkedin.com/in/ahmed-mohamed-atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://dev.to/deadreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmedatwaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~0105fe4b6f8c598c9c" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1f1828df-ff6d-4489-a81a-acfa074b2f11" alt="upwork" height="40" width="40" /></a>
 
 <h2 align="center">Languages and Tools:</h2>
