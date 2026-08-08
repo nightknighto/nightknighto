@@ -93,7 +93,7 @@
 <h2 align="center"> :zap: Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/obra/superpowers/issues/217#issuecomment-4677193849) in [obra/superpowers](https://github.com/obra/superpowers)
+1. ❗ Opened issue [#1013](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/issues/1013) in [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation)
 <!--END_SECTION:activity-->
 
 
